@@ -27,10 +27,10 @@
 - [X] SQL
 - [X] Entity Framework 6
 - [X] Entity Framework Core
-- [ ] ASPNet.Core Essential
-- [ ] ASPNet.Core Professional
+- [X] ASPNet.Core Essential
+- [X] ASPNet.Core Professional
 - [ ] Project
-
+- [ ] JS
 ### _P.S. Now I Know more than_
 ```c#
 Console.WriteLine("Hello World!");
