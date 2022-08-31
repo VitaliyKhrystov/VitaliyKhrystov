@@ -9,6 +9,10 @@
 * [Github](https://github.com/VitaliyKhrystov)
 * Ukraine, Kyiv
 
+### ___Projects:___
+* [Resume](https://admirable-selkie-7ec233.netlify.app)
+* [CarForum](http://carforumtestproject.somee.com/)
+
 ### ___Hard Skills:___
 * C#, HTML5, CSS3;
 * .NET Framework, .NET Core, WPF, Windows Forms;
