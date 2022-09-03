@@ -10,7 +10,7 @@
 * Ukraine, Kyiv
 
 ### ___Projects:___
-* [Resume](https://sage-dango-631d5b.netlify.app/)
+* [Resume](https://teal-cuchufli-f8db54.netlify.app/)
 * [CarForum](http://carforumtestproject.somee.com/)
 
 ### ___Hard Skills:___
