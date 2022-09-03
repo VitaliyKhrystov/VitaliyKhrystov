@@ -10,7 +10,7 @@
 * Ukraine, Kyiv
 
 ### ___Projects:___
-* [Resume](https://admirable-selkie-7ec233.netlify.app)
+* [Resume](https://sage-dango-631d5b.netlify.app/)
 * [CarForum](http://carforumtestproject.somee.com/)
 
 ### ___Hard Skills:___
@@ -33,7 +33,7 @@
 - [X] Entity Framework Core
 - [X] ASPNet.Core Essential
 - [X] ASPNet.Core Professional
-- [ ] Project
+- [X] Project
 - [ ] JS
 ### _P.S. Now I Know more than_
 ```c#
