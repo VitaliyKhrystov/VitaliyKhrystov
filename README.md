@@ -10,13 +10,14 @@
 * Ukraine, Kyiv
 
 ### ___Projects:___
-* [Resume](https://teal-cuchufli-f8db54.netlify.app/)
+* [Resume](https://deluxe-cascaron-18758d.netlify.app/)
 * [CarForum](http://carforumtestproject.somee.com/)
 
 ### ___Hard Skills:___
 * C#, HTML5, CSS3;
+*	ASP.NET Core (MVC, Razor);
 * .NET Framework, .NET Core, WPF, Windows Forms;
-* SQL, T-SQL, DBMS: MSSQL, .NET EF/ EF.Core;
+* SQL, T-SQL, DBMS: MSSQL, .NET EF/ EF Core;
 * GIT, Visual Studio, Adobe Photoshop, MS Office
 
 ### ___Soft Skils:___
