@@ -32,13 +32,13 @@
 - [X] C# Essential
 - [X] C# Professional
 - [X] GIT
-- [X] SQL
-- [X] Entity Framework 6
+- [X] T-SQL
 - [X] Entity Framework Core
 - [X] ASPNet.Core Essential
 - [X] ASPNet.Core Professional
 - [X] Project
 - [ ] JS
+- [ ] Angular
 ### _P.S. Now I Know more than_
 ```c#
 Console.WriteLine("Hello World!");
