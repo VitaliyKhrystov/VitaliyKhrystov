@@ -21,8 +21,11 @@
 * GIT, Visual Studio, Adobe Photoshop, MS Office
 
 ### ___Soft Skils:___
-  I’m responsible, punctual, purposeful, results-oriented, high-energy. 
-  Major strengths include excellent communication skills, competency, team player, attention to detail.
+* Team player
+* Collaboration
+* Communication
+* Attention to details
+* Creativity
 
 ### ___Learning status C# /.NET Developer:___
 - [X] C# Starter
