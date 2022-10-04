@@ -12,6 +12,8 @@
 ### ___Projects:___
 * [Resume](https://deluxe-cascaron-18758d.netlify.app/)
 * [CarForum](http://carforumtestproject.somee.com/)
+* [Coin_Api_WPF (GIT Repository)](https://github.com/VitaliyKhrystov/Coin_API_DCT.git)
+
 
 ### ___Hard Skills:___
 * C#, HTML5, CSS3;
