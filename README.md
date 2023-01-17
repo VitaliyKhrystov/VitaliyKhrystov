@@ -10,13 +10,13 @@
 * Ukraine, Kyiv
 
 ### ___Projects:___
-* [Resume](https://fanciful-truffle-6b11cc.netlify.app/)
+* [Resume](https://famous-kleicha-caa410.netlify.app/)
 * [CarForum](http://carforumtestproject.somee.com/)
 * [Coin_Api_WPF (GIT Repository)](https://github.com/VitaliyKhrystov/Coin_API_DCT.git)
 
 
 ### ___Hard Skills:___
-* C#, HTML5, CSS3;
+* C#, JS, TypeScript, HTML5, CSS3;
 *	ASP.NET Core (MVC, Razor);
 * .NET Framework, .NET Core, WPF, Windows Forms;
 * SQL, T-SQL, DBMS: MSSQL, .NET EF/ EF Core;
@@ -39,7 +39,7 @@
 - [X] ASPNet.Core Essential
 - [X] ASPNet.Core Professional
 - [X] Project
-- [ ] JS
+- [X] JS
 - [ ] Angular
 ### _P.S. Now I Know more than_
 ```c#
