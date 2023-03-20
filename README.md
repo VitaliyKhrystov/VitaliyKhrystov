@@ -10,14 +10,14 @@
 * Ukraine, Kyiv
 
 ### ___Projects:___
-* [Resume](https://famous-kleicha-caa410.netlify.app/)
+* [Resume](https://effervescent-dasik-fcae6c.netlify.app/)
 * [CarForum](http://carforumtestproject.somee.com/)
 * [Coin_Api_WPF (GIT Repository)](https://github.com/VitaliyKhrystov/Coin_API_DCT.git)
 
 
 ### ___Hard Skills:___
 * C#, JS, TypeScript, HTML5, CSS3;
-*	ASP.NET Core (MVC, Razor);
+*	ASP.NET Core, Web API;
 * .NET Framework, .NET Core, WPF, Windows Forms;
 * SQL, T-SQL, DBMS: MSSQL, .NET EF/ EF Core;
 * GIT, Visual Studio, Adobe Photoshop, MS Office
