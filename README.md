@@ -16,7 +16,7 @@
 
 
 ### ___Hard Skills:___
-* C#, JS, TypeScript, HTML5, CSS3;
+* C#, JS, TypeScript, Angular, HTML5, CSS3;
 *	ASP.NET Core, Web API;
 * .NET Framework, .NET Core, WPF, Windows Forms;
 * SQL, T-SQL, DBMS: MSSQL, .NET EF/ EF Core;
