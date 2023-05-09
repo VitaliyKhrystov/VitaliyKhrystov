@@ -10,7 +10,7 @@
 * Ukraine, Kyiv
 
 ### ___Projects:___
-* [Resume](https://effervescent-dasik-fcae6c.netlify.app/)
+* [Resume](https://snazzy-cendol-b1dc8d.netlify.app/)
 * [CarForum](http://carforumtestproject.somee.com/)
 * [Coin_Api_WPF (GIT Repository)](https://github.com/VitaliyKhrystov/Coin_API_DCT.git)
 
@@ -40,7 +40,7 @@
 - [X] ASPNet.Core Professional
 - [X] Project
 - [X] JS
-- [ ] Angular
+- [X] Angular
 ### _P.S. Now I Know more than_
 ```c#
 Console.WriteLine("Hello World!");
