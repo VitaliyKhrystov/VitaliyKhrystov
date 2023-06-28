@@ -10,7 +10,7 @@
 * Ukraine, Kyiv
 
 ### ___Projects:___
-* [Resume](https://snazzy-cendol-b1dc8d.netlify.app/)
+* [Resume](https://melodious-douhua-fb86d7.netlify.app/)
 * [CarForum](http://carforumtestproject.somee.com/)
 * [Coin_Api_WPF (GIT Repository)](https://github.com/VitaliyKhrystov/Coin_API_DCT.git)
 
