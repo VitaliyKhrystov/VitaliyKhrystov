@@ -10,10 +10,19 @@
 * Ukraine, Kyiv
 
 ### ___Projects:___
-* [Resume](https://melodious-douhua-fb86d7.netlify.app/)
-* [CarForum](http://carforumtestproject.somee.com/)
-* [Coin_Api_WPF (GIT Repository)](https://github.com/VitaliyKhrystov/Coin_API_DCT.git)
-
+* Car Forum:
+  - Technologies’ stack: C#, ASP.NET Core MVC, Entity Framework Core, CSS, HTML, JS, SQL, MSSQL Server;
+  - [Web Link](http://carforumtestproject.somee.com/)
+  - [GitHub Repository](https://github.com/VitaliyKhrystov/CarForum)
+* Comment Service:
+  - Technologies’ stack: C#, ASP.NET Core WebApi, Entity Framework Core, TypeScript, Angular, CSS, HTML, SQL, MSSQL Server;
+  - [Web Link](https://commentservice-angularapp.web.app/)
+  - [GitHub Repository](https://github.com/VitaliyKhrystov/CommentService)
+ * Cryptocurrency Information Collector:
+  - Technologies’ stack: C#, WPF (MVVM), XAML;
+  - [GitHub Repository](https://github.com/VitaliyKhrystov/Coin_API_DCT)
+* Resume:
+  - [Web Link](https://vitaliikhrystov-resume.netlify.app/)
 
 ### ___Hard Skills:___
 * C#, JS, TypeScript, Angular, HTML5, CSS3;
