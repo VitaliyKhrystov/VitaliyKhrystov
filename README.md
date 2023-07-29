@@ -18,7 +18,7 @@
   - Technologies’ stack: C#, ASP.NET Core WebApi, Entity Framework Core, TypeScript, Angular, CSS, HTML, SQL, MSSQL Server;
   - [Web Link](https://commentservice-angularapp.web.app/)
   - [GitHub Repository](https://github.com/VitaliyKhrystov/CommentService)
- * Cryptocurrency Information Collector:
+* Cryptocurrency Information Collector:
   - Technologies’ stack: C#, WPF (MVVM), XAML;
   - [GitHub Repository](https://github.com/VitaliyKhrystov/Coin_API_DCT)
 * Resume:
