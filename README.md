@@ -4,6 +4,7 @@
 * Phone: +38(097)-111-90-28
 * Email: vitalik_khristov@ukr.net
 * Skype: vitalik_khristov
+* Telegram: @VitaliiKhrystov
 * [Facebook](https://www.facebook.com/vitalik.khristov)
 * [Linkedin](https://www.linkedin.com/in/khrystov-vitalii-58946b131/)
 * [Github](https://github.com/VitaliyKhrystov)
